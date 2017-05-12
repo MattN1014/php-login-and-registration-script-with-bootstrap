@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html>
 	<head lang="en">
-		<title>Login</title>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <meta name="robots" content="all,follow">
+            <meta name="googlebot" content="index,follow,snippet,archive">
+            
+            <title>Login</title>
+            
+            <!-- link the style sheet -->
+            <link rel="stylesheet" href="style.css">
 	</head>
 	<body>
 		<h1>Welcome</h1>
